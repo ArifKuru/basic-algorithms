@@ -1,6 +1,8 @@
 # basic-algorithms
 In my first semester, I wrote some basic algorithms during my introduction to programming lectures.
 This repo contains
+
+
 -Project-1 Prime Number
 A prime number is a natural number greater than 1 with only two factors – themselves and 1. 
 A prime number cannot be divided by any other numbers without leaving a remainder. An 
@@ -9,6 +11,8 @@ Write a program that takes a number from a user and finds greatest prime number 
 than the given number. According to control result, program returns an appropriate message. 
 Program terminates when user enters -1 otherwise asks new number after each return. Do not 
 forget to control suitability of user’s input
+
+
 -Project-2 Composite Number
 A composite number is a positive integer that can be formed by multiplying two smaller positive 
 integers. Equivalently, it is a positive integer that has at least one divisor other than 1 and itself. 
@@ -18,6 +22,8 @@ Write a program that takes a number from a user and finds smallest composite num
 than the given number. According to control result, program returns an appropriate message. 
 Program terminates when user enters -1 otherwise asks new number after each return. Do not 
 forget to control suitability of user’s input
+
+
 -Project-3 Twisted Prime Number
 A number is said to be twisted prime if it is a prime number and reverse of the number is also 
 a prime number. An example of a twisted prime number is 13 because both 13 and 31 are 
@@ -26,6 +32,8 @@ Write a program that takes a number from a user and controls whether it is twist
 not. According to control result, program returns an appropriate message. Program terminates 
 when user enters -1 otherwise asks new number after each return. Do not forget to control 
 suitability of user’s input.
+
+
 -Project-4 Coprime Numbers
 Co-prime numbers are the numbers whose common factor is only 1. There should be a 
 minimum of two numbers to form a set of co-prime numbers. Such numbers have only 1 as 
@@ -35,6 +43,8 @@ Write a program that takes two numbers from a user and controls whether they are
 not. According to control result, program returns an appropriate message. Program terminates 
 when user enters -1 otherwise asks new number after each return. Do not forget to control 
 suitability of user’s input.
+
+
 -Project-5 Ugly Number
 Ugly numbers are numbers whose only prime factors are 2, 3 or 5. For instance, 300 is ugly 
 number because 300 = 2 * 2 * 3 * 5 * 5.
